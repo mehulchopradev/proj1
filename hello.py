@@ -1,5 +1,6 @@
 # import the module date.py
 # import the module student
+# import fibo module
 
 print 'Good Morning To All'
 
@@ -11,3 +12,5 @@ print msg
 # create student object and call the method
 
 # create one more student object and call the method
+
+# call the function from fibo module and print the series
